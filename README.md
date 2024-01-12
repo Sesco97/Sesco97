@@ -1,8 +1,8 @@
 ## Hi there, nice to meet you 👋
 
-I'm Francesco Rettore and I'm a Mathematical Engineering Graduate at Politecnico di Milano.
-I recently graduated with a Master Thesis about **Augmented Reality** and **Applied Mathematics**, with title: *Augmented Reality in racing applications: development of a framework for Heading Estimation and camera Automatic Boresighting*.
-My research interest lies in the application of **Data Science** and **Machine Learning** in different domains.
+I'm Francesco Rettore and I'm a Mathematical Engineering, currently working as **Data Scientist with a focus in Artificial Intelligence**.
+I recently graduated from Politecnico di Milano with a Master Thesis about **Augmented Reality** and **Applied Mathematics**, with title: *Augmented Reality in racing applications: development of a framework for Heading Estimation and camera Automatic Boresighting*.
+My research interest lies in the application of **Data Science**, **Machine Learning** and **AI** in different domains.
 
 🎓 **Education:**
 - Master of Science in Mathematical Engineering at `Politecnico di Milano`
@@ -19,8 +19,8 @@ My research interest lies in the application of **Data Science** and **Machine L
 - `francesco.rettore97@gmail.com`
 
 👦 **About me:**
-- 👀 I'm interested in Data Science, Machine Learning, Deep Learning and Augmented Reality
-- 🌱 I'm currently studying to get prepared for a job interview
+- 👀 I'm interested in Data Science, Machine Learning, Deep Learning, Artificial Intelligence and Augmented Reality
+- 🌱 I'm constantly studying to gain new skills and insights on emerging technologies
 - 🏃 I do a lot of sport
 - ⚽ I play futsal at a competitive level
 - ⛰️ I love hiking
