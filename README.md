@@ -19,7 +19,7 @@ My research interest lies in the application of **Data Science**, **Machine Lear
 - `francesco.rettore97@gmail.com`
 
 👦 **About me:**
-- 👀 I'm interested in Data Science, Machine Learning, Deep Learning, Artificial Intelligence and Augmented Reality
+- 👀 I'm interested in Data Science, Machine Learning, Artificial Intelligence and Software Development
 - 🌱 I'm constantly studying to gain new skills and insights on emerging technologies
 - 🏃 I do a lot of sport
 - ⚽ I play futsal at a competitive level
